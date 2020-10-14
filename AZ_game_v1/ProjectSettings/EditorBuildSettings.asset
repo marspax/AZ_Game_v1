@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/aztec_game_v1.unity
+    guid: 114b8230543242741b02b1433b45e14e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f150c7db651f2354a8ad257c1bf59d93,
       type: 2}
