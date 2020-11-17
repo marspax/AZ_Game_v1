@@ -261,6 +261,9 @@
  <Reference Include="Vuforia.UnityExtensions">
  <HintPath>C:/Users/UG/Documents/GitHub/AZ_Game_v1/AZ_game_v1/Library/PackageCache/com.ptc.vuforia.engine@9.3.3/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
+ <Reference Include="ICSharpCode.NRefactory">
+ <HintPath>C:/Users/UG/Documents/GitHub/AZ_Game_v1/AZ_game_v1/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+ </Reference>
  <Reference Include="nunit.framework">
  <HintPath>C:/Users/UG/Documents/GitHub/AZ_Game_v1/AZ_game_v1/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
